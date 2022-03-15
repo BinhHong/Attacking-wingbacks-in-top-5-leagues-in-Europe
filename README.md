@@ -10,13 +10,18 @@ In this project I will focus on **attacking aspects** of the wingbacks of top te
 ## Methodologies
 1. Scrape the data from https://understat.com/.
 2. Filter wingbacks and cleanse the data.
-3. Visualize the data, with a heavy focus on `xGChain90`, the `expected goal chain per 90 minutes`.
-4. Rank the best wingbacks and visualize by radar charts.
+4. Analyze and visualize the data, in terms of `xGChain90`-the `expected goal chain per 90 minutes`, explained at https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/.
+5. Rank the best wingbacks and visualize by radar charts.
 
 ## Findings
-1. Actually there is a trend of using wingbacks on attack, indicated by the graph
+1. Actually there is a trend of using wingbacks in attack, indicated by the graph
 
 ![](plot1.png?raw=true)
 
 2. The best wingback is **Alphonso Davies** from Bayern Munich with leading `xGChain90` and `xGBuildup90`.
 
+![](Davies.png?raw=true)
+
+3. **Trent Alexander-Arnold** is the best wingback in terms of stats directly related to goals, e.g `key passes`, `expected assists`.
+
+![](Arnold.png?raw=true)
