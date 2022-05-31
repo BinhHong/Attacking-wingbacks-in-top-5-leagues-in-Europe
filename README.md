@@ -7,6 +7,11 @@ In football, **wingbacks** are the outside defenders in a team's defense, with m
 
 In this project I will focus on **attacking aspects** of the wingbacks of top teams in 5 European Leagues: Premier League, La Liga, Bundesliga, Serie A and League 1. The main purposes are to check if there is a trend of using wingbacks in attack and to evaluate how well wingbacks take part in bulding up their team's play.
 
+
+***
+
+This project is inspired by [Edd Webster](https://github.com/eddwebster), [Sergi Lehkyi](https://towardsdatascience.com/web-scraping-advanced-football-statistics-11cace1d863a) and [Khuyen Tran](https://github.com/khuyentran1401).
+
 ## Methodologies
 1. Scrape the data from https://understat.com/.
 2. Cleanse the data.
